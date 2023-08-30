@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Amangooglekeep/static/css/main.ce1adadd.css",
+    "main.js": "/Amangooglekeep/static/js/main.75e3e33c.js",
+    "index.html": "/Amangooglekeep/index.html",
+    "main.ce1adadd.css.map": "/Amangooglekeep/static/css/main.ce1adadd.css.map",
+    "main.75e3e33c.js.map": "/Amangooglekeep/static/js/main.75e3e33c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce1adadd.css",
+    "static/js/main.75e3e33c.js"
+  ]
+}
